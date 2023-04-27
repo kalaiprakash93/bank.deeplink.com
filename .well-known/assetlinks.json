@@ -2,8 +2,9 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "connectidaho.mbanking.test",
+    "package_name": "com.tyfone.chevronfcu.test",
     "sha256_cert_fingerprints":
-    ["AF:96:E6:A8:42:E0:9A:50:DC:A0:7C:D4:BD:7E:A3:B2:EA:B4:2D:75:26:F5:C5:E0:A5:6A:4E:0E:81:E6:0A:FB"]
+    ["AF:96:E6:A8:42:E0:9A:50:DC:A0:7C:D4:BD:7E:A3:B2:EA:B4:2D:75:26:F5:C5:E0:A5:6A:4E:0E:81:E6:0A:FB",
+    "8C:AF:BC:0A:FA:19:18:3C:6C:74:0F:DC:A2:8C:50:11:EA:62:48:36:4C:71:7A:69:DE:5F:EC:F4:38:65:4A:75"]
   }
 }]
